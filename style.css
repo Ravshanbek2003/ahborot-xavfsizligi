@@ -1,0 +1,348 @@
+.div-ul {
+  border: 1px solid;
+  height: 60px;
+  /* width: 1200px; */
+}
+ul {
+  display: flex;
+  align-items: center;
+  text-align: center;
+  list-style-type: none;
+  justify-content: space-around;
+}
+a {
+  text-decoration: none;
+  color: blue;
+}
+.h1-i {
+  display: flex;
+  justify-content: center;
+  color: rgb(55, 255, 0);
+}
+.box img {
+  height: 600px;
+  width: 600px;
+  position: relative;
+  left: 400px;
+  top: 100px;
+  border: 1px solid;
+}
+.box img:hover {
+  height: 620px;
+  width: 620px;
+}
+
+.box1 {
+  border: 1px solid;
+  height: 500px;
+  display: flex;
+  justify-content: space-around;
+  background-color: aqua;
+}
+.p {
+  height: 300px;
+  width: 900px;
+  text-align: initial;
+  line-height: 24px;
+  word-spacing: 4px;
+  font-weight: 600;
+  position: relative;
+  top: 28px;
+  font-size: 20px;
+  color: rgb(233, 20, 20);
+}
+.box2 {
+  border: 1px solid;
+  height: 500px;
+  display: flex;
+  justify-content: space-around;
+  background-color: rgb(252, 255, 255);
+}
+
+.box3 {
+  border: 1px solid;
+  height: 900px;
+  display: flex;
+  justify-content: space-around;
+  background-color: rgb(22, 237, 33);
+}
+.box3 img {
+  width: 500px;
+  height: 800px;
+  position: relative;
+  top: 60px;
+}
+.tarix-h1 {
+  display: flex;
+  justify-content: center;
+  font-size: 30px;
+  color: blue;
+  text-align: initial;
+}
+
+/* videokuzatuv */
+
+.vide-h1 {
+  display: flex;
+  justify-content: center;
+  font-size: 30px;
+  color: blue;
+  text-align: initial;
+}
+.text {
+  border: 1px solid;
+  height: 700px;
+  background-color: rgb(89, 89, 154);
+}
+.videokuzat-p {
+  height: 1000px;
+  line-height: 20px;
+  word-spacing: 8px;
+  font-size: 20px;
+  color: white;
+  display: flex;
+  justify-content: center;
+}
+.text1 {
+  border: 1px solid;
+  height: 170px;
+  margin-top: 30px;
+  background-color: rgb(89, 89, 154);
+}
+.text2 {
+  border: 1px solid;
+  height: 300px;
+  margin-top: 30px;
+  background-color: rgb(89, 89, 154);
+}
+.text3 {
+  border: 1px solid;
+  height: 150px;
+  margin-top: 30px;
+  background-color: rgb(89, 89, 154);
+}
+.text4 {
+  border: 1px solid;
+  height: 180px;
+  margin-top: 30px;
+  background-color: rgb(89, 89, 154);
+}
+.text5 {
+  border: 1px solid;
+  height: 230px;
+  margin-top: 30px;
+  background-color: rgb(89, 89, 154);
+}
+.text6 {
+  border: 1px solid;
+  height: 180px;
+  margin-top: 30px;
+  background-color: rgb(89, 89, 154);
+}
+.text-h2 {
+  display: flex;
+  justify-content: center;
+  color: white;
+  font-size: 35px;
+}
+.davlat {
+  background-image: url(img/images\\(2\).jfif);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+.davlat-h2 {
+  display: flex;
+  justify-content: center;
+  color: blue;
+  font-size: 35px;
+}
+.davlat-p {
+  display: flex;
+  justify-content: center;
+  color: black;
+  font-weight: 800;
+  font-size: 18px;
+}
+.texnalog-h1 {
+  display: flex;
+  justify-content: center;
+  color: rgb(7, 227, 29);
+  font-size: 45px;
+}
+.texna-h2 {
+  display: flex;
+  justify-content: center;
+  color: rgb(7, 227, 29);
+  font-size: 35px;
+}
+.texna-p {
+  display: flex;
+  justify-content: center;
+  color: white;
+  font-weight: 800;
+  font-size: 18px;
+}
+.boxs {
+  background-color: blue;
+}
+.quyosh-menu {
+  width: 1200px;
+}
+.kam {
+  width: 1200px;
+  height: 450px;
+}
+.kam1 {
+  border: 1px solid;
+  display: flex;
+  height: 300px;
+  width: 600px;
+  margin: 10px;
+  align-items: center;
+  position: relative;
+  left: 300px;
+}
+.kam1 img {
+  height: 300px;
+  width: 300px;
+}
+.kam2 {
+  display: flex;
+  border: 1px solid;
+  height: 300px;
+  width: 600px;
+  margin: 10px;
+  align-items: center;
+  position: relative;
+  left: 300px;
+}
+.kam2 img {
+  height: 300px;
+  width: 300px;
+}
+span {
+  color: blue;
+  font-size: 18px;
+}
+.dc5v {
+  width: 1200px;
+  height: 450px;
+  position: relative;
+  top: 200px;
+}
+.dc5v1 {
+  display: flex;
+  border: 1px solid;
+  height: 300px;
+  width: 600px;
+  margin: 10px;
+  align-items: center;
+  position: relative;
+  left: 300px;
+}
+.dc5v1 img {
+  height: 300px;
+  width: 300px;
+}
+.dc5v2 {
+  display: flex;
+  border: 1px solid;
+  height: 300px;
+  width: 600px;
+  margin: 10px;
+  position: relative;
+  left: 300px;
+  align-items: center;
+}
+.dc5v2 img {
+  height: 300px;
+  width: 300px;
+}
+
+.batareyakamera {
+  width: 1200px;
+  position: relative;
+  top: 430px;
+}
+.bul {
+  height: 400px;
+  width: 600px;
+  display: flex;
+  border: 1px solid;
+  justify-content: center;
+  margin: 10px;
+  position: relative;
+  left: 300px;
+}
+.bul1 {
+  margin: 10px;
+  height: 400px;
+  width: 600px;
+  display: flex;
+  border: 1px solid;
+  justify-content: center;
+  position: relative;
+  left: 300px;
+}
+.eshik {
+  margin: 10px;
+  height: 400px;
+  width: 600px;
+  display: flex;
+  border: 1px solid;
+  position: relative;
+  left: 300px;
+  justify-content: center;
+}
+.ipkamera {
+  width: 1200px;
+  position: relative;
+  top: 430px;
+}
+.ptzip {
+  display: flex;
+  border: 1px solid;
+  height: 400px;
+  width: 600px;
+  position: relative;
+  left: 300px;
+  margin: 10px;
+}
+.simsiz {
+  border: 1px solid;
+  width: 600px;
+  height: 300px;
+  position: relative;
+  top: 430px;
+  left: 300px;
+  margin: 10px;
+}
+.kiyim {
+  border: 1px solid;
+  width: 600px;
+  height: 200px;
+  position: relative;
+  top: 430px;
+  left: 300px;
+  margin: 10px;
+}
+.tur1 {
+  height: 4900px;
+  display: flex;
+  justify-content: center;
+}
+
+.tur-h1 {
+  display: flex;
+  color: aquamarine;
+  justify-content: center;
+}
+.tur-h2 {
+  display: flex;
+  justify-content: center;
+}
+.box img {
+  width: 400px;
+}
